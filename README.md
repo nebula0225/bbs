@@ -1,2 +1,2 @@
 # bbs
-Spring Boot 게시판
+Spring Boot AOP 연습
