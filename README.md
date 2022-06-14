@@ -1,2 +1,2 @@
 # bbs
-Spring Boot AOP 연습
+Spring Boot 연습
